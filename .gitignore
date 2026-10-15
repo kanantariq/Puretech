@@ -1,0 +1,16 @@
+node_modules/
+.pnpm-store/
+.next/
+.vercel/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+*.zip
+tsconfig.tsbuildinfo
+.env*
+!.env.example
+
+scratch/
+*.mjs
